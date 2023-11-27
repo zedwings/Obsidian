@@ -15,17 +15,17 @@
               "state": {
                 "file": "工作日志.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "0fc5d460e7c1578b",
+            "id": "a2b7b734555ae8d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常代办.md",
+                "file": "工作日志.md",
                 "mode": "preview",
                 "source": true
               }
@@ -42,8 +42,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "0fc5d460e7c1578b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日常代办.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "14cb006db140ca25",
@@ -171,11 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d90faabddc553ca",
+  "active": "a2b7b734555ae8d0",
   "lastOpenFiles": [
-    "ZSH 配置文件.md",
-    "日常代办.md",
+    "Homebrew.md",
     "工作日志.md",
+    "日常代办.md",
+    "ZSH 配置文件.md",
     "zshrc"
   ]
 }
