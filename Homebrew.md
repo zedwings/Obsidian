@@ -1,4 +1,4 @@
-更新之前设置以下环境变量
+brew update 之前设置以下环境变量
 
 ```bash
 export HOMEBREW_API_DOMAIN="https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/api"

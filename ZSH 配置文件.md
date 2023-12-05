@@ -1,3 +1,5 @@
+配置路径: ~/.zshrc
+
 ```bash
 # PS1
 PROMPT='%F{green}%B[%F{blue}%n%F{green}@%F{red}%m %F{yellow}%~%F{green}]%F{green}(%F{magenta}%*%F{green})%B
