@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "329f2614ac386e1c",
+            "id": "37dbe41592e38bce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常代办.md",
+                "file": "vim 配置文件.md",
                 "mode": "preview",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,13 +102,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "14cb006db140ca25",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作日志.md",
+                "file": "Homebrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作日志.md",
+                "file": "Homebrew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作日志.md"
+                "file": "Homebrew.md"
               }
             }
           }
@@ -184,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2b7b734555ae8d0",
+  "active": "0fc5d460e7c1578b",
   "lastOpenFiles": [
+    "vim 配置文件.md",
+    "工作日志.md",
+    "Homebrew.md",
     "日常代办.md",
     "ZSH 配置文件.md",
-    "Homebrew.md",
-    "工作日志.md",
     "zshrc"
   ]
 }
