@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "73eecf215324e76a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Product Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "feb483680151809a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作日志.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b07cc0fc51a6063e",
             "type": "leaf",
             "state": {
@@ -63,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作日志.md",
+                "file": "Product Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作日志.md",
+                "file": "Product Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作日志.md"
+                "file": "Product Manager.md"
               }
             }
           }
@@ -190,13 +215,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a2b7b734555ae8d0",
+  "active": "73eecf215324e76a",
   "lastOpenFiles": [
-    "Homebrew.md",
     "SSH 配置文件.md",
+    "Product Manager.md",
+    "Homebrew.md",
+    "Pasted image 20240117124019.png",
+    "工作日志.md",
     "ZSH 配置文件.md",
     "VIM 配置文件.md",
-    "工作日志.md",
     "日常代办.md",
     "zshrc"
   ]
